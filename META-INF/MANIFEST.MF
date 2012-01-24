@@ -31,4 +31,4 @@ Export-Package: oracle.core.lmx,
  oracle.security.o3logon,
  oracle.sql,
  oracle.sql.converter
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
